@@ -27,28 +27,23 @@ Edit
    pip install -r requirements.txt
 Run preprocessing:
 
-bash
-Copy
-Edit
+```bash
 python src/data_preprocessing.py
+```
 Train the model:
 
-bash
-Copy
-Edit
+```bash
 python src/train_model.py
+```
 Evaluate the model:
 
-bash
-Copy
-Edit
+```bash
 python src/evaluate_model.py
+```
 Launch app:
-
-bash
-Copy
-Edit
+```bash
 streamlit run app/streamlit_app.py
+```
 📈 Algorithms Used
 Linear Regression
 
@@ -63,11 +58,3 @@ MSE (Mean Squared Error)
 
 📦 Dataset
 Rainfall in India (1901–2015)
-
-yaml
-Copy
-Edit
-
----
-
-Would you like help adding visualizations for EDA or saving the scaler along with 
