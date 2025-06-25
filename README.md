@@ -3,7 +3,7 @@
 A regression-based ML project that predicts **annual rainfall** based on monthly values using models like Random Forest and Linear Regression.
 
 ## 📂 Project Structure
-
+```bash
 rainfall-prediction-ml/
 ├── data/ # Raw and processed data
 ├── models/ # Saved model
@@ -12,10 +12,8 @@ rainfall-prediction-ml/
 ├── notebooks/ # EDA notebooks
 ├── requirements.txt
 └── README.md
+```
 
-bash
-Copy
-Edit
 
 ## 🚀 How to Run
 
